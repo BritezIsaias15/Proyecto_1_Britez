@@ -16,4 +16,4 @@ Materia: Proyecto Informático 1
 
 ## Consigna
 
-Prender una seria de 10 led comunes en una secuencia de escalera.
+Generar una cascada de 8 leds comunes que vayan de apagado gradualmente hasta el último led totalmente prendido el primero totalmente apagado.
