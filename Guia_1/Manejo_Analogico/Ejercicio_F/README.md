@@ -16,4 +16,4 @@ Materia: Proyecto Informático 1
 
 ## Consigna
 
-Con un botón al mantenerlo presionado lograr iniciar una secuencia de sonidos de prendido y apagado estilo alarma.
+Con un potenciómetro variar la velocidad de parpadeo de un led común en un rango de 0s a 10s.
