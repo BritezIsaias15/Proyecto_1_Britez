@@ -16,4 +16,4 @@ Materia: Proyecto Informático 1
 
 ## Consigna
 
-Prender 2 led RGB de tal manera que uno quede prendido y otro apagado y muestren cada uno cuando prenda esta seria de colores, rojo, cian, verde, magenta, azul, blanco, amarillo.
+Colocar 1 led rgb y 3 potenciómetros, cada potenciómetro debe controlar la intensidad de cada canal del led rgb.
