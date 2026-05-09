@@ -1,4 +1,4 @@
-# Ejercicio B
+# Ejercicio C
 
 ## Datos del Alumno
 
