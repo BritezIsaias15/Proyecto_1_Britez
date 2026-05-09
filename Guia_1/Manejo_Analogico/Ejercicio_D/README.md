@@ -16,4 +16,4 @@ Materia: Proyecto Informático 1
 
 ## Consigna
 
-Simular el semáforo de un tren con 2 led y un Buzzer para el sonido.
+Con ayuda de un potenciómetro cambiar la velocidad de parpadeo de 2 led rgb en color magenta y amarillo.
