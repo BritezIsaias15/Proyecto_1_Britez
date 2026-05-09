@@ -16,4 +16,4 @@ Materia: Proyecto Informático 1
 
 ## Consigna
 
-Simular el ciclo de encendido de luces de un semáforo, tanto el del auto como el peatonal al mismo tiempo.
+Prender un led común en 5 intensidades distintas.
