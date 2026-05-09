@@ -16,4 +16,4 @@ Materia: Proyecto Informático 1
 
 ## Consigna
 
-Prender a la vez, de una tanda de 10 leds comunes, los 5 impares y luego los 5 pares, y que vayan alternando el prender y apagar.
+Con un led rgb mostrar 3 tonalidades distintas de los siguientes colores, cian, rojo, amarillo.
