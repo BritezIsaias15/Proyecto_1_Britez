@@ -14,7 +14,7 @@ Docente: Gonzalo Consorti
 
 Materia: Proyecto Informático 1
 
-# Tirada de dados
+# Consigna
 
 Se desea realizar un  pequeño juego en el cual nos permita lanzar 2 dado digitales (usar 4 tiras de led NeoPixel para mostrar cada numero a la vez (total 8 tiras) ), el cual tengamos un boton que cuando lo toquemos UNA SOLA VEZ (no mantener apretado) empezara a calcular 2 numero aleatorios entre 1 y 6  y los mostrara en los 2 grupos de tiras de led correspondientes.
 
