@@ -17,4 +17,5 @@ void loop()
   }
   promedio = promedio / (int)length(nums);
   Serial.println(promedio);
+  delay(5000);
 }
