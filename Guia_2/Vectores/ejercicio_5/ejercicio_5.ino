@@ -14,10 +14,11 @@ void setup()
 
 void loop()
 {
-  for(int i = 0; i < n - 1; i++)
+  for(int i = 0; i < n; i++)
   {
     digitalWrite(led1, nums1[i]);
     digitalWrite(led2, nums2[i]);
     delay(250);
   }
+  delay(1000);
 }
