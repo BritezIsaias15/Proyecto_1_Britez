@@ -1,4 +1,4 @@
-# Proyecto_1_Britez
+# Proyecto_1
 
 ## Datos del Alumno
 
