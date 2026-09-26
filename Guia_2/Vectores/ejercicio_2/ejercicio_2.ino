@@ -1,7 +1,7 @@
 #define length(v) (sizeof(v) / sizeof(v[0]))
 
 int nums[] = { 10, 4, 2};
-
+int n = (int)length(nums);
 
 void setup()
 {
@@ -10,9 +10,9 @@ void setup()
 
 void loop()
 {
-  for(int i = 0; i < (int)length(nums) - 1; i++)
+  for(int i = 0; i < n - 1 ; i++)
   {
-    for (int j = i + 1; j < (int)length(nums); j++)
+    for (int j = i + 1; j < n; j++)
     {
       if(nums[i] > nums[j])
       {
@@ -22,7 +22,7 @@ void loop()
       }
     }
   }
-  for(int i = 0; i < (int)length(nums); i++)
+  for(int i = 0; i < n; i++)
   {
     Serial.print(nums[i]);
     Serial.print(" ");
